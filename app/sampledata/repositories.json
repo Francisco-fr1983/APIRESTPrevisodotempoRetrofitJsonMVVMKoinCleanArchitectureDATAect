@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "by": "woeid",
+      "valid_key": false,
+      "results":
+    {
+      "temp": 25
+    },
+      "date": "29/08/2021",
+      "time": "12:30",
+      "condition_code ":" 29 ",
+      " descrição ":" Parcialmente nublado ",
+      " atualmente ":" dia ",
+      " cid ":" ",
+      " cidade ":" Brasília, DF ",
+      " img_id ":" 29 ",
+      " umidade ": 44,
+      " wind_speedy ":" 3,6 km / h ",
+      " sunrise ":" 06:19 am ",
+      " sunset ":" 06:05 pm ",
+      " condition_slug ":" cloudly_day ",
+      " city_name ":" Brasília ",
+      " previsão ":
+    [{
+      " data ":" 29/08 "
+    }, {
+      " dia da semana ":" Dom ",
+      " max ": 28," min ": 16,
+      " descrição ":" Tempo nublado ",
+      "condição ":" cloudly_day "
+    },
+    {
+      " date ":" 30/08 ",
+      " weekday ":" Seg ",
+      " max ": 28," min ": 17,
+      " description ":" Tempo limpo ",
+      " condition ":" clear_day "
+    },
+    {
+      " date ":" 31/08 ",
+      " weekday ":" Ter ",
+      " max ": 28," min ": 17,
+      " description ":" Chuvas esparsas ",
+      " condição " : "chuva"
+    },
+    {
+      "data": "01/09",
+      "dia da semana": "Qua",
+      "max": 28, "min": 15,
+      "descrição": "Chuvas esparsas",
+      "condição": "rain"
+    }, {
+      "date": "02/09",
+      "weekday": "Qui",
+      "max": 29,
+      "min": 16,
+      "description": "Tempo nublado",
+      "condition": " cloudly_day "
+    },
+      {
+      "date": "03/09",
+      "weekday": "Sex",
+      "max": 30,
+      "min": 17,
+      "description": "Parcialmente nublado",
+      "condition": "cloud"
+    },
+      {
+      "data": "04/09",
+      "dia da semana": "Sáb",
+      "max": 31,
+      "min": 18,
+      "descrição": "Tempo limpo",
+      "condição": "clear_day"
+    },
+     {
+      " data ":" 05/09 ",
+      " dia da semana ":" Dom ",
+      " max ": 31,
+      " min ": 19,
+      " descrição ":" Tempo limpo ",
+      " condição ":" clear_day "
+    },
+      {
+      " data ":" 06/09 ",
+      " dia da semana ":" Seg ",
+      " max ": 32,
+      " min ": 19,
+      " descrição ":" Tempo limpo ",
+      " condição ":" clear_day "
+    },
+      {
+      " data " : "07/09",
+      "dia da semana ":" Ter ",
+      " max ": 34,
+      " min ": 21,
+      " description ":" Tempo limpo ",
+      " condição ":" clear_day "
+    }
+      ]},
+    {
+      " execution_time ": 0.0,
+      " from_cache ": true }
+
+
+  ]
+}

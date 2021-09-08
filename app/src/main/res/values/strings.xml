@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">API.REST-Previsão do tempo-Retrofit-Json-MVVM-Koin-Jetpack-CleanArchitecture-DATA-ect</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>

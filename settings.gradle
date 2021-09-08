@@ -1,0 +1,2 @@
+rootProject.name = "API.REST-Previsão do tempo-Retrofit-Json-MVVM-Koin-Jetpack-CleanArchitecture-DATA-ect"
+include ':app'
